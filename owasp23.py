@@ -89,6 +89,7 @@ class ExploitTool:
         print("****************************")
         print("*        OWASP 23          *")
         print("*   Exploit Academy Tool   *")
+        print("*   Geliştirici: WebsteR   *")
         print("****************************")
         print()
 
