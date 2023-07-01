@@ -4,6 +4,7 @@
 ****************************
 *        OWASP 23          *
 *   Exploit Academy Tool   *
+*   Geliştirici: WebsteR   *
 ****************************
 
 Açığı seçin:
